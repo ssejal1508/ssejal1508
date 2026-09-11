@@ -1,7 +1,7 @@
 # <div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100" alt="animated hello"> I'm Sejal Sharma<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100"></div>
   
 <div align="center">
-🏫 Computer Science and Engineering | Junior@NIT Hamirpur <br>
+🏫 Computer Science and Engineering | Senior@NIT Hamirpur <br>
 🎉 I love my bluish-green hair
 <br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" /> <br>
   <img src="https://komarev.com/ghpvc/?username=shar2710&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Visits"/>
@@ -10,7 +10,7 @@
 ---
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="40"> Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-sharma-1b349628a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.sejal2710@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-sharma-1b349628a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.sejal2710@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-green.svg)](https://port-liard-five.vercel.app/)
 
 ---
 
